@@ -71,7 +71,7 @@ Notez l'adresse IPv4 sous l'interface active (**eth0** ou **ens33**).
 <img src="https://github.com/user-attachments/assets/4773b5cc-2681-4bd6-ba5d-b9ec6be27277" alt="SSH" width="210">
 
 ## Utiliser MobaXterm
-1. Téléchargez et installez MobaXterm.
+1. Téléchargez et installez [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html).
 2. Cliquez sur **Session > SSH et configurez l'IP, le port et le nom d'utilisateur.**
 3. Validez et connectez-vous. 
 
